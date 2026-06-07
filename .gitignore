@@ -1,0 +1,25 @@
+# 大型二进制文件 - 超过 GitHub 100MB 限制
+ffmpeg.exe
+cloudflared.exe
+ngrok.exe
+
+# 下载的视频
+videos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+
+# 环境变量/密钥
+.env
+
+# 系统
+.DS_Store
+Thumbs.db
